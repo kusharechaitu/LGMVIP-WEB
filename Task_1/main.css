@@ -1,11 +1,11 @@
 :root {
-	--dark: hwb(41 55% 13%);
-	--darker: #000000;
+	--dark: hsl(182 42% 33%);
+	--darker: #111827;
 	--darkest: #111827;
 	--grey: rgb(255, 255, 255);
-	--pink: hsl(318, 46%, 44%);
-	--purple: hwb(316 10% 29%);
-	--light: hsl(0, 0%, 100%);
+	--pink: #7e278f;
+	--purple:hsl(258 ,63%, 42%);
+	--light: #EEE;
 }
 
 * {
